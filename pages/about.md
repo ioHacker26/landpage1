@@ -1,14 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Hi everyone! My name is Anaïs. Little backstory about me: this is my first time creating a small business on my own, so you can be sure everying is being individually processed with care. When I was younger, my mom used to sew me beautiful dresses on her free time. This inspired me to start sewing childrens clothes, with the mentorship of my mom. Each dress is unique and made with care. Remember, making these indiviual articles of clothing can take anywhere from 4 hours to several days, so we price our products according to the cost of materials as well as the time it takes to make them. 
  
